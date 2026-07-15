@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+{{page_meta}}
+{{base_head}}<link rel="stylesheet" href="/assets/css/mulch-ado.css">
+<link rel="stylesheet" href="/assets/css/kg-forms.css">
+<style>
+.kg-blog-layout { max-width: 860px; margin: 0 auto; padding: 40px 20px; }
+.kg-blog-content { min-width: 0; }
+.kg-post-hero { width: 100%; max-height: 440px; object-fit: cover; border-radius: 6px; margin-bottom: 28px; }
+.kg-post-meta { font-size: 0.88rem; color: #888; margin-bottom: 24px; display: flex; gap: 16px; flex-wrap: wrap; align-items: center; border-bottom: 1px solid #eee; padding-bottom: 16px; }
+.kg-post-meta span { display: flex; align-items: center; gap: 6px; }
+.kg-post-body { color: #333; font-size: 16px; line-height: 1.8; }
+.kg-post-body h1 { color: var(--kg-secondary); font-size: 30px; font-weight: 700; margin: 32px 0 14px; }
+.kg-post-body h2 { color: var(--kg-secondary); font-size: 22px; font-weight: 700; margin: 32px 0 14px; }
+.kg-post-body h3 { color: var(--kg-secondary); font-size: 18px; font-weight: 700; margin: 24px 0 10px; }
+.kg-post-body p { margin: 0 0 18px; }
+.kg-post-body ul, .kg-post-body ol { margin: 0 0 18px 24px; }
+.kg-post-body li { margin-bottom: 8px; line-height: 1.7; }
+.kg-post-body a { color: var(--kg-primary); }
+.kg-post-body strong { color: #222; }
+.kg-post-body blockquote { border-left: 4px solid var(--kg-primary); background: rgba(45,106,45,0.07); padding: 16px 20px; margin: 24px 0; color: #444; }
+.kg-post-body hr { border: none; border-top: 1px dashed #ddd; margin: 28px 0; }
+.faq-question { padding: 14px 24px; }
+.faq-answer { padding: 0 24px 16px; }
+.kg-cta-box { background: var(--kg-secondary); color: #fff; border-radius: 6px; padding: 28px 32px; margin-top: 40px; }
+.kg-cta-box h4 { margin: 0 0 10px; font-size: 20px; color: #fff; }
+.kg-cta-box p { margin: 0 0 16px; font-size: 15px; line-height: 1.6; color: rgba(255,255,255,0.85); }
+.kg-cta-box a { color: var(--kg-accent); font-weight: 700; }
+.kg-post-back { margin-top: 32px; padding-top: 20px; border-top: 1px solid #eee; }
+</style>
+</head>
+<body>
+{{header}}
+<div class="kg-blog-post-hero" style="background:var(--kg-secondary);padding:48px 20px 36px;margin-bottom:0;">
+  <div class="container">
+    <nav class="kg-breadcrumb" aria-label="Breadcrumb" style="margin-bottom:12px;font-size:0.82rem;color:rgba(255,255,255,0.6);">
+      <a href="/" style="color:rgba(255,255,255,0.7);">Home</a> &rsaquo;
+      <a href="/blog/" style="color:rgba(255,255,255,0.7);">Blog</a> &rsaquo;
+      <span style="color:#fff;">{{title}}</span>
+    </nav>
+    <h1 style="color:#fff;font-size:clamp(1.4rem,3vw,2.1rem);font-weight:800;line-height:1.25;max-width:760px;margin:0;">{{title}}</h1>
+  </div>
+</div>
+<div id="content" class="site-content">
+  <div class="content-inner">
+    <div class="container" style="padding-top:10px;padding-bottom:60px;">
+      <div class="kg-blog-layout">
+        <div class="kg-blog-content">
+          {{featured_image_html}}
+          <div class="kg-post-meta">
+            {{date_html}}
+            {{author_html}}
+          </div>
+          <div class="kg-post-body">
+            {{content}}
+          </div>
+          <div class="kg-cta-box">
+            <h4>Ready for a Lawn You&rsquo;re Proud Of?</h4>
+            <p>Mulch Ado About Nothing Lawn Care serves Kansas City, Overland Park, Olathe, Lee&rsquo;s Summit, and the entire KC metro. Same crew every visit, all-in pricing, photo update when done.</p>
+            <p>Call <a href="tel:8165550147">(816) 555-0147</a> or <a href="/contact/">get a free estimate online</a>. No contracts required.</p>
+          </div>
+          <div class="kg-post-back">
+            <a href="/blog/" style="color:var(--kg-primary);font-weight:600;">&larr; Back to Blog</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{footer}}
+</body>
+</html>

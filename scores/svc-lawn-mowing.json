@@ -1,0 +1,35 @@
+{
+  "killerSEO": 92,
+  "killerGEO": 88,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1432,
+  "hasSchema": true,
+  "flags": [
+    "Meta description contains HTML entity (&ndash;) instead of rendered character",
+    "No explicit local climate discussion beyond transition zone mention",
+    "Missing local landmark photos or specific street references in alt text"
+  ],
+  "strengths": [
+    "Excellent word count at 1432 words",
+    "Strong local relevance with transition zone grass knowledge",
+    "6 highly local FAQs addressing Kansas City specific lawn care",
+    "Specific neighborhood mentions (Prairie Star, Waldo, Falls of Winterset)",
+    "Clear pricing table with Kansas City context",
+    "Schema markup present",
+    "100 internal links for strong site architecture",
+    "Multiple testimonials with neighborhood attribution",
+    "Owner bio with local positioning",
+    "H1 contains keyword + city perfectly",
+    "Keyword in first 100 words",
+    "Clear service area list with 10+ cities",
+    "NAP visible in footer",
+    "Strong CTA and form present",
+    "All-in pricing transparency builds trust",
+    "Photo update process demonstrates accountability",
+    "No contract messaging differentiates from competitors"
+  ],
+  "key": "svc-lawn-mowing",
+  "url": "/lawn-mowing/",
+  "scoredAt": "2026-06-29T17:32:38.830Z"
+}

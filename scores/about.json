@@ -1,0 +1,32 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 92,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1858,
+  "hasSchema": true,
+  "flags": [
+    "Title could be more keyword-first (brand comes before primary keyword)",
+    "H1 contains HTML entity (&mdash;) that should be cleaned",
+    "No explicit FAQ schema markup mentioned despite FAQ section present"
+  ],
+  "strengths": [
+    "Exceptional local climate/geography detail (transition zone, tall fescue, clay soil, KC-specific seasonal timing)",
+    "Deep neighborhood specificity (Prairie Star, Waldo, Falls of Winterset mentioned in testimonials)",
+    "Strong word count at 1858 words with comprehensive content depth",
+    "5 FAQs with strong local Kansas City context throughout",
+    "H1 contains keyword + city, H2s use secondary keywords effectively",
+    "Keyword appears in first 100 words multiple times",
+    "Clear NAP visible (phone, email, service area)",
+    "Multiple testimonials with neighborhood attribution and star ratings",
+    "Owner credentials and photo with E-E-A-T signal",
+    "Schema markup present, 101 internal links, multiple CTAs and contact forms",
+    "Service area clearly defined with 10+ cities listed multiple times",
+    "Exceptional GBP alignment with metro-wide positioning",
+    "Original angle focused on same-crew consistency and photo updates",
+    "Meta description under 155 chars with clear CTA"
+  ],
+  "key": "about",
+  "url": "/about/",
+  "scoredAt": "2026-06-29T17:35:26.469Z"
+}

@@ -1,0 +1,33 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 92,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1655,
+  "hasSchema": true,
+  "flags": [
+    "Title tag exceeds 65 characters",
+    "Testimonials are from other cities (Prairie Star/Overland Park, Waldo/Kansas City, Falls of Winterset/Lee's Summit), not Lenexa-specific"
+  ],
+  "strengths": [
+    "Excellent local geographic detail: mentions Millennia, Falcon Valley, Prairie Star, West Lenexa, K-10 corridor, I-435, Lenexa City Center",
+    "Strong climate/soil specificity: transition zone grasses, compacted clay, seasonal mowing height guidance for fescue",
+    "Well over 700 words (1655) with comprehensive content depth",
+    "6 local-slant FAQs addressing Lenexa-specific conditions and HOA requirements",
+    "H1 includes keyword + city, H2s include location variations",
+    "Keyword in first 100 words",
+    "Schema markup present",
+    "109 internal links (excellent)",
+    "Clear CTA and form present multiple times",
+    "NAP visible throughout page",
+    "Multiple credibility signals: insured, licensed, locally operated",
+    "Photo confirmation service mentioned (supports E-E-A-T)",
+    "Clear service area definition with Johnson County context",
+    "Pricing transparency ($40-$75) with flat-rate messaging",
+    "Strong GBP alignment with neighborhood-level targeting",
+    "Meta description includes pricing and clear CTA with phone number"
+  ],
+  "key": "sxc-mowing-lenexa",
+  "url": "/lawn-mowing/lenexa-ks/",
+  "scoredAt": "2026-06-29T17:35:13.658Z"
+}

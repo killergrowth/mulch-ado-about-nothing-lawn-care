@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+{{page_meta}}
+{{base_head}}<link rel="stylesheet" href="/assets/css/mulch-ado.css">
+<link rel="stylesheet" href="/assets/css/kg-forms.css">
+</head>
+<body>
+{{header}}
+<div class="kg-blog-post-hero" style="background:var(--kg-secondary);padding:48px 20px 36px;">
+  <div class="container">
+    <nav aria-label="Breadcrumb" style="margin-bottom:12px;font-size:0.82rem;color:rgba(255,255,255,0.6);">
+      <a href="/" style="color:rgba(255,255,255,0.7);">Home</a> &rsaquo; <span style="color:#fff;">Blog</span>
+    </nav>
+    <h1 style="color:#fff;font-size:clamp(1.4rem,3vw,2.1rem);font-weight:800;margin:0;">{{page_title}}</h1>
+  </div>
+</div>
+<div id="content" class="site-content">
+  <div class="content-inner">
+    <div class="container">
+      <div class="kg-blog-index-list" style="max-width:860px;padding:40px 20px;margin:0 auto;">
+        {{posts_html}}
+        {{pagination_html}}
+      </div>
+    </div>
+  </div>
+</div>
+{{footer}}
+</body>
+</html>

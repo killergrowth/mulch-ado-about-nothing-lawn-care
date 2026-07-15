@@ -1,0 +1,35 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 92,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1711,
+  "hasSchema": true,
+  "flags": [
+    "Title tag includes HTML entity (&amp;) instead of rendered character",
+    "Meta description includes HTML entity (&amp;)",
+    "H1 missing 'KS' state identifier for clarity",
+    "First H2 repeats H1 exactly - missed opportunity for secondary keyword"
+  ],
+  "strengths": [
+    "Exceptional local specificity: mentions Cedar Creek, Old Town Olathe, Quail Creek, 135th Street",
+    "Deep geographic and soil knowledge (KC clay, transition zone grasses, compaction patterns)",
+    "Strong climate/seasonal insight (soil temp timing, forsythia blooming as pre-emergent marker)",
+    "1711 words exceeds minimum by 144%",
+    "6 locally-focused FAQs with Olathe-specific answers",
+    "Keyword in first 100 words and H1",
+    "Schema markup present",
+    "109 internal links (exceptional)",
+    "Multiple CTAs and forms present",
+    "NAP visible throughout page",
+    "3 testimonials with neighborhood attribution",
+    "Clear service area delineation with routing logic (pairs with Lenexa/Overland Park)",
+    "Pricing transparency with local range",
+    "Business owner statement builds E-E-A-T",
+    "Licensed and insured credentials stated",
+    "Strong GBP alignment with city-specific content and clear metro positioning"
+  ],
+  "key": "sxc-fertilization-olathe",
+  "url": "/fertilization-and-lawn-treatment/olathe-ks/",
+  "scoredAt": "2026-06-29T17:34:36.431Z"
+}

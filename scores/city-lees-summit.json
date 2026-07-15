@@ -1,0 +1,31 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 82,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1251,
+  "hasSchema": true,
+  "flags": [
+    "Testimonials include non-Lee's Summit locations (Overland Park, Waldo)",
+    "No real local climate/seasonal insights specific to Lee's Summit",
+    "NAP email visible but no physical street address shown"
+  ],
+  "strengths": [
+    "Excellent local geographic specificity: Longview Lake, Lake Lotawana, Lakewood, Falls of Winterset, Chapel Ridge, downtown historic district",
+    "Strong neighborhood coverage with 6+ named neighborhoods",
+    "1251 words exceeds depth requirement",
+    "5 FAQs with local Lee's Summit focus",
+    "Schema markup present with 101 internal links",
+    "Clear service area statement",
+    "H1 contains keyword + city, proper SEO structure",
+    "Multiple CTAs and contact forms present",
+    "Text update with photos feature creates unique service differentiation",
+    "Owner bio adds E-E-A-T signal",
+    "Title and meta are optimized with length and CTA",
+    "Keyword appears in first 100 words",
+    "Strong local context: lakes per capita, historic downtown, new development areas"
+  ],
+  "key": "city-lees-summit",
+  "url": "/lees-summit-mo/",
+  "scoredAt": "2026-06-29T17:34:01.354Z"
+}

@@ -1,0 +1,34 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 82,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1222,
+  "hasSchema": true,
+  "flags": [
+    "Testimonials are from other cities (Overland Park, Kansas City, Lee's Summit), not Olathe",
+    "No real team photo or service photo with alt text mentioned",
+    "FAQs could have more Olathe-specific seasonal timing or soil references"
+  ],
+  "strengths": [
+    "Excellent local geographic detail: Cedar Creek, Quail Creek, Old Town Olathe, 119th-151st corridor, south of 135th Street",
+    "Strong local insight: clay compaction in older neighborhoods vs new sod management south of 135th",
+    "Clear service area definition with neighborhood specificity",
+    "Well-optimized title and meta (keyword-first, under character limits, CTA present)",
+    "H1 and H2s properly structured with keyword + city",
+    "Keyword in first 100 words",
+    "1222 words exceeds 700+ requirement",
+    "5 FAQs with Olathe focus",
+    "Schema markup present",
+    "101 internal links",
+    "Clear CTA and form present",
+    "NAP visible throughout",
+    "Credentials shown (insured, licensed, locally operated)",
+    "Owner bio with photo builds E-E-A-T",
+    "HOA mention (Cedar Creek, Quail Creek) shows deep local knowledge",
+    "Route pairing insight (Lenexa, southern Overland Park) demonstrates operational local knowledge"
+  ],
+  "key": "city-olathe",
+  "url": "/olathe-ks/",
+  "scoredAt": "2026-06-29T17:33:52.565Z"
+}

@@ -1,0 +1,35 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 82,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1711,
+  "hasSchema": true,
+  "flags": [
+    "Title is 40 chars (good) but could include price or stronger CTA",
+    "No real property photo alt text analysis possible from provided content",
+    "Email addresses inconsistent (tylernorris@me.com vs greg@muchadolawncare.com)",
+    "Owner name inconsistent (Greg M. vs no last name in contact)"
+  ],
+  "strengths": [
+    "Excellent local neighborhood specificity: Brookside, Waldo, Ward Parkway, Northland, Prairie Star",
+    "Strong local geographic knowledge: transition zone grasses, clay soil, Missouri River reference",
+    "Word count 1711 far exceeds 700+ requirement",
+    "6 FAQs present with strong local slant and seasonal Kansas City details",
+    "Schema markup confirmed present",
+    "109 internal links (far exceeds 3+ requirement)",
+    "Multiple CTAs and estimate form present",
+    "3 testimonials with neighborhood attribution",
+    "Clear pricing $40-$75 stated multiple times",
+    "NAP fully visible with phone, email, service area",
+    "H1 contains keyword + city",
+    "Keyword in first 100 words confirmed",
+    "Meta description 106 chars with CTA and pricing",
+    "Service area clearly defined with 9+ surrounding cities",
+    "Strong climate/soil insights (clay compaction, fescue height by season)",
+    "Credentials visible: fully insured, licensed, locally operated"
+  ],
+  "key": "sxc-mowing-kc",
+  "url": "/lawn-mowing/kansas-city-mo/",
+  "scoredAt": "2026-06-29T17:34:13.948Z"
+}

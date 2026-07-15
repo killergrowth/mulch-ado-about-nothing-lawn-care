@@ -1,0 +1,34 @@
+{
+  "killerSEO": 92,
+  "killerGEO": 88,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1571,
+  "hasSchema": true,
+  "flags": [
+    "NAP incomplete - no full street address visible",
+    "No visible photo alt text in provided content",
+    "No explicit credentials or certifications mentioned"
+  ],
+  "strengths": [
+    "Excellent local uniqueness - mentions KC clay soil, transition-zone grasses, specific tree types",
+    "Strong geographic specificity - 10+ neighborhoods named (Brookside, Waldo, Blue Valley, Creekmoor, etc.)",
+    "Exceptional word count at 1571 words",
+    "3+ FAQs present with strong local context",
+    "H1 contains keyword + city perfectly",
+    "Keyword in first 100 words (multiple times)",
+    "Title is keyword-first and under 65 characters",
+    "Meta description under 155 chars with clear CTA",
+    "Schema markup confirmed present",
+    "112 internal links - excellent",
+    "Multiple CTAs and form present",
+    "Testimonials with neighborhood attribution (Prairie Star, Waldo, Falls of Winterset)",
+    "Service area extremely clear - 10 cities with neighborhood breakdowns",
+    "Strong GBP map pack positioning with city-specific pages",
+    "Climate/geography references (clay soil, oak/maple/sycamore, compaction issues)",
+    "Local insight throughout (transition-zone grasses, timing advice specific to KC)"
+  ],
+  "key": "homepage",
+  "url": "/",
+  "scoredAt": "2026-06-29T17:32:27.917Z"
+}

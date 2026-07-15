@@ -1,0 +1,23 @@
+name: Refresh Google Reviews
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Weekly Monday 6am UTC
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch reviews
+        run: node scripts/fetch-reviews.js
+        env:
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+      - name: Commit updated reviews
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'chore: refresh Google reviews'
+          add: 'data/reviews.json'

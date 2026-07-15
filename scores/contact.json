@@ -1,0 +1,34 @@
+{
+  "killerSEO": 92,
+  "killerGEO": 88,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1833,
+  "hasSchema": true,
+  "flags": [
+    "Contact page, not service page - limited service intent depth",
+    "Email inconsistency (greg@ vs tylernorris@)",
+    "Some neighborhoods listed without deeper context"
+  ],
+  "strengths": [
+    "Exceptional local geographic detail: 10+ neighborhoods named (Brookside, Waldo, Prairie Star, Falls of Winterset, etc.)",
+    "Deep local climate insight: transition zone, clay soil, tall fescue heat stress, fall aeration window",
+    "1833 words with 6+ local-focused FAQs",
+    "Strong H1 with keyword+city, H2s cover services and neighborhoods",
+    "Title 59 chars keyword-first, meta 149 chars with CTA and phone",
+    "Keyword in first 100 words (Kansas City metro home)",
+    "Multiple testimonials with neighborhood attribution and initials",
+    "Owner bio with credentials and business philosophy",
+    "Schema confirmed present",
+    "79 internal links",
+    "Clear CTA form and phone throughout",
+    "NAP visible in multiple locations",
+    "Service area clearly defined: 10 cities, MO/KS sides",
+    "GBP-aligned with metro focus and neighborhoods",
+    "All-in pricing transparency builds trust",
+    "Photo confirmation mentioned as process differentiator"
+  ],
+  "key": "contact",
+  "url": "/contact/",
+  "scoredAt": "2026-06-29T17:35:36.746Z"
+}

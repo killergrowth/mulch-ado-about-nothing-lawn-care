@@ -1,0 +1,35 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 92,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1724,
+  "hasSchema": true,
+  "flags": [
+    "Title slightly long at 52 chars (optimal but could add keyword-first structure)",
+    "Meta description doesn't include strong action CTA verb",
+    "No explicit credentials/certifications mentioned beyond 'licensed'",
+    "Testimonials are from other cities (Overland Park, Kansas City, one from Lee's Summit)"
+  ],
+  "strengths": [
+    "Exceptional local specificity: Longview Lake, Lake Lotawana, Lakewood, Falls of Winterset, Chapel Ridge, Downtown historic district mentioned",
+    "Deep geographic context: clay soil, KC warm wet springs, July/August heat patterns, seasonal timing differences",
+    "1724 words exceeds 700+ threshold significantly",
+    "6 local-focused FAQs with Lee's Summit-specific answers addressing clay soil, neighborhoods, timing",
+    "H1 contains keyword + city in first 100 words",
+    "Multiple H2s with secondary keywords and local modifiers",
+    "Schema markup present",
+    "109 internal links (exceptional)",
+    "Clear NAP visible multiple times",
+    "CTA and form present with phone number prominent",
+    "Service area clearly defined with neighborhood-level detail",
+    "Strong positioning for Lee's Summit map pack with consistent location references",
+    "Pricing transparency ($75-$120 per cubic yard)",
+    "Photo confirmation process mentioned (trust signal)",
+    "Owner bio/founder statement adds E-E-A-T",
+    "Real local insight: HOA requirements, 1920s-1950s homes, property value context"
+  ],
+  "key": "sxc-mulching-ls",
+  "url": "/mulching-and-landscaping/lees-summit-mo/",
+  "scoredAt": "2026-06-29T17:34:48.312Z"
+}

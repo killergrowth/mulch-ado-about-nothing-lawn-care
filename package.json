@@ -1,0 +1,10 @@
+{
+  "name": "mulch-ado-about-nothing-lawn-care",
+  "version": "1.0.0",
+  "description": "Mulch Ado About Nothing Lawn Care — KillerClimb PKG002 Site",
+  "scripts": {
+    "build": "node build.js",
+    "deploy": "node ../../tools/automated-build-pipeline/deploy-staging.js --project mulch-ado-about-nothing-lawn-care --pkg pkg002"
+  },
+  "private": true
+}

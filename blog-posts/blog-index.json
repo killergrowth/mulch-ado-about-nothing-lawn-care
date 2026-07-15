@@ -1,0 +1,1042 @@
+{
+  "siteId": "mulch-ado-about-nothing-lawn-care",
+  "posts": [
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/when-to-aerate-kansas-city-lawn.jpg",
+      "status": "published",
+      "publishDate": "2026-06-29",
+      "scheduledDate": null,
+      "slug": "when-to-aerate-kansas-city-lawn",
+      "title": "When to Aerate Your Kansas City Lawn (And Why Most Homeowners Wait Too Long)",
+      "excerpt": "Kansas City's clay-heavy soil compacts harder than most homeowners realize. Here's the right aeration window for KC metro lawns  -  and what happens if you miss it.",
+      "tags": [
+        "aeration",
+        "lawn-care",
+        "kansas-city",
+        "overseeding"
+      ],
+      "imagePrompt": "A lawn aeration machine pulling soil plugs from a lush green Kansas City suburban lawn. Morning light, residential neighborhood background. No text, no logos."
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/spring-lawn-care-checklist-kansas-city.jpg",
+      "status": "published",
+      "publishDate": "2026-06-22",
+      "scheduledDate": null,
+      "slug": "spring-lawn-care-checklist-kansas-city",
+      "title": "Kansas City Spring Lawn Care Checklist: What to Do and When",
+      "excerpt": "A month-by-month spring lawn care plan for Kansas City and the KC metro  -  covering cleanup, fertilization, pre-emergent timing, and first mow.",
+      "tags": [
+        "spring-cleanup",
+        "lawn-care",
+        "kansas-city",
+        "fertilization"
+      ],
+      "imagePrompt": "A Kansas City homeowner raking spring debris from a lawn with fresh green grass emerging. Early spring morning, residential neighborhood. No text, no logos."
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/mulching-guide-kansas-city-landscape-beds.jpg",
+      "status": "published",
+      "publishDate": "2026-06-15",
+      "scheduledDate": null,
+      "slug": "mulching-guide-kansas-city-landscape-beds",
+      "title": "Mulching Kansas City Landscape Beds: Type, Depth, and Timing",
+      "excerpt": "The right mulch at the right depth makes a real difference in Kansas City's clay-and-heat environment. Here's what we use and why.",
+      "tags": [
+        "mulching",
+        "landscaping",
+        "kansas-city",
+        "lawn-care"
+      ],
+      "imagePrompt": "A lawn care professional spreading fresh dark hardwood mulch in a Kansas City residential landscape bed. Clean edging, green shrubs, sunny day. No text, no logos."
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-07-06T00:00:25.915Z",
+      "status": "published",
+      "publishDate": "2026-07-06",
+      "scheduledDate": "2026-07-06",
+      "slug": "overseeding-kansas-city-fall-guide",
+      "title": "Overseeding Your Kansas City Lawn in Fall: A Complete Guide",
+      "excerpt": "Fall overseeding is the single highest-ROI lawn care activity for most Kansas City homeowners. Here's how to do it right.",
+      "tags": [
+        "overseeding",
+        "aeration",
+        "fall",
+        "kansas-city"
+      ],
+      "imagePrompt": "Close-up of grass seed being spread over a Kansas City lawn after aeration. Soil plugs visible, green grass in background. No text, no logos.",
+      "featuredImage": "blog-posts/images/overseeding-kansas-city-fall-guide.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-07-13T00:00:20.400Z",
+      "status": "published",
+      "publishDate": "2026-07-13T00:00:20.400Z",
+      "scheduledDate": "2026-07-13",
+      "slug": "lawn-fertilization-schedule-kansas-city",
+      "title": "Lawn Fertilization Schedule for Kansas City: What to Apply and When",
+      "excerpt": "A KC metro fertilization calendar for cool-season lawns  -  spring pre-emergent through fall winterizer  -  with timing tied to actual KC weather patterns.",
+      "tags": [
+        "fertilization",
+        "lawn-care",
+        "kansas-city",
+        "turf"
+      ],
+      "imagePrompt": "A lawn care technician applying granular fertilizer to a lush Kansas City lawn with a broadcast spreader. Sunny morning, residential street in background. No text, no logos.",
+      "featuredImage": "blog-posts/images/lawn-fertilization-schedule-kansas-city.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-07-20",
+      "slug": "leaf-removal-kansas-city-timing",
+      "title": "When to Schedule Leaf Removal in Kansas City (And Why One Pass Isn't Enough)",
+      "excerpt": "Kansas City's mix of oaks, maples, and sycamores means fall leaves drop in waves. Here's the timing that actually works.",
+      "tags": [
+        "leaf-removal",
+        "fall-cleanup",
+        "kansas-city",
+        "seasonal"
+      ],
+      "imagePrompt": "A lawn care crew blowing fall leaves from a Kansas City yard with a large residential home in the background. Orange and red leaves, clear autumn day. No text, no logos.",
+      "featuredImage": "blog-posts/images/leaf-removal-kansas-city-timing.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-07-27",
+      "slug": "edging-guide-kansas-city-lawn",
+      "title": "Lawn Edging in Kansas City: Why It Matters More Than the Mow",
+      "excerpt": "Sharp edges are what separate a maintained lawn from a neglected one. Here's how edging should work and what tools make the difference.",
+      "tags": [
+        "edging",
+        "mowing",
+        "kansas-city",
+        "lawn-care"
+      ],
+      "imagePrompt": "A lawn care professional edging a Kansas City sidewalk with a stick edger. Clean fresh concrete edge, lush green grass, residential driveway. No text, no logos.",
+      "featuredImage": "blog-posts/images/edging-guide-kansas-city-lawn.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-08-03",
+      "slug": "sod-installation-guide-kansas-city",
+      "title": "Sod Installation in Kansas City: What to Expect and How to Keep It Alive",
+      "excerpt": "Sod installation gives you an instant lawn  -  but the first 30 days determine whether it thrives or fails. Here's the full picture for KC metro homeowners.",
+      "tags": [
+        "sod-installation",
+        "lawn-care",
+        "kansas-city",
+        "new-lawn"
+      ],
+      "imagePrompt": "Fresh sod being installed in a Kansas City suburban backyard. Rolls of green grass, crew laying sod in neat rows, sunny afternoon. No text, no logos.",
+      "featuredImage": "blog-posts/images/sod-installation-guide-kansas-city.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-08-10",
+      "slug": "gutter-cleaning-kansas-city-fall",
+      "title": "Why Kansas City Gutters Need Cleaning in Fall (And What Happens When They Don't)",
+      "excerpt": "KC's oak and maple canopy is beautiful. It's also relentless on gutters in October and November. Here's what clogged gutters actually cost you.",
+      "tags": [
+        "gutter-cleaning",
+        "fall",
+        "kansas-city",
+        "home-maintenance"
+      ],
+      "imagePrompt": "A lawn care professional cleaning gutters on a Kansas City two-story home. Fall leaves in gutters, residential neighborhood, clear autumn day. No text, no logos.",
+      "featuredImage": "blog-posts/images/gutter-cleaning-kansas-city-fall.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-08-17",
+      "slug": "overland-park-lawn-care-guide",
+      "title": "Lawn Care in Overland Park, KS: What HOA Communities Expect",
+      "excerpt": "Overland Park's HOA neighborhoods set real mowing and landscaping standards. Here's what Johnson County homeowners need to know.",
+      "tags": [
+        "overland-park",
+        "hoa",
+        "lawn-care",
+        "johnson-county"
+      ],
+      "imagePrompt": "An immaculate suburban lawn in an Overland Park Kansas HOA neighborhood. Clean edging, uniform grass height, neat landscape beds. No text, no logos.",
+      "featuredImage": "blog-posts/images/overland-park-lawn-care-guide.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-08-24",
+      "slug": "hedge-shrub-trimming-when-how-kansas-city",
+      "title": "When and How to Trim Hedges and Shrubs in Kansas City",
+      "excerpt": "Timing matters for hedge trimming in Kansas City. Trim at the wrong time and you damage new growth or cut off next year's blooms.",
+      "tags": [
+        "hedge-trimming",
+        "shrubs",
+        "kansas-city",
+        "landscaping"
+      ],
+      "imagePrompt": "A lawn care professional trimming boxwood hedges with commercial shears at a Kansas City home. Precise cuts, clean green hedge, professional at work. No text, no logos.",
+      "featuredImage": "blog-posts/images/hedge-shrub-trimming-when-how-kansas-city.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-08-31",
+      "slug": "fall-cleanup-kansas-city-complete-guide",
+      "title": "Fall Lawn and Yard Cleanup in Kansas City: A Complete Guide",
+      "excerpt": "A full fall cleanup covers more than leaves. Here's the complete checklist for Kansas City homeowners before the ground freezes.",
+      "tags": [
+        "fall-cleanup",
+        "seasonal",
+        "kansas-city",
+        "leaf-removal"
+      ],
+      "imagePrompt": "A clean suburban Kansas City yard after fall cleanup. Leaf-free lawn, trimmed shrubs, mulched beds, clear blue autumn sky. No text, no logos.",
+      "featuredImage": "blog-posts/images/fall-cleanup-kansas-city-complete-guide.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-09-07",
+      "slug": "lawn-mowing-height-kansas-city-guide",
+      "title": "Mowing Height for Kansas City Lawns: The Number Most Homeowners Get Wrong",
+      "excerpt": "Cutting too short is the single most common lawn care mistake in Kansas City. Here's the right mowing height for KC turf types.",
+      "tags": [
+        "mowing",
+        "lawn-care",
+        "kansas-city",
+        "turf"
+      ],
+      "imagePrompt": "A riding mower cutting a large lush Kansas City suburban lawn at the correct height. Side discharge, bright morning light, neat cut pattern. No text, no logos.",
+      "featuredImage": "blog-posts/images/lawn-mowing-height-kansas-city-guide.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-09-14",
+      "slug": "lees-summit-lawn-care-guide",
+      "title": "Lawn Care in Lee's Summit, MO: Longview, Lakewood, and What Works Here",
+      "excerpt": "Lee's Summit has lake communities, mature historic-district lots, and fast-growing new subdivisions  -  all with different lawn care needs.",
+      "tags": [
+        "lees-summit",
+        "missouri",
+        "lawn-care",
+        "seasonal"
+      ],
+      "imagePrompt": "A well-maintained lake community home in Lee's Summit Missouri with a freshly mowed lawn leading to a dock. Late afternoon light, calm water. No text, no logos.",
+      "featuredImage": "blog-posts/images/lees-summit-lawn-care-guide.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-09-21",
+      "slug": "why-same-crew-matters-lawn-care",
+      "title": "Why the Same Lawn Care Crew Every Visit Makes a Real Difference",
+      "excerpt": "Rotating crews don't know your yard. They miss the spot by the gate, forget your fence code, and treat your lawn like any other stop. Here's why consistency matters.",
+      "tags": [
+        "lawn-care",
+        "reliability",
+        "kansas-city",
+        "customer-service"
+      ],
+      "imagePrompt": "A friendly lawn care crew arriving at a familiar Kansas City home. Crew waving to homeowner on the porch, truck in driveway, lush lawn. No text, no logos.",
+      "featuredImage": "blog-posts/images/why-same-crew-matters-lawn-care.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-09-28",
+      "slug": "olathe-lawn-care-new-vs-established",
+      "title": "Lawn Care in Olathe, KS: New Construction vs Established Neighborhoods",
+      "excerpt": "Fresh sod on a new Olathe subdivision and a 30-year-old lawn on Cedar Creek need completely different approaches. Here's what works in each.",
+      "tags": [
+        "olathe",
+        "johnson-county",
+        "lawn-care",
+        "sod"
+      ],
+      "imagePrompt": "Side-by-side view of a new construction lot with fresh sod next to an established mature green lawn in an Olathe Kansas neighborhood. No text, no logos.",
+      "featuredImage": "blog-posts/images/olathe-lawn-care-new-vs-established.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-10-05",
+      "slug": "kansas-city-clay-soil-lawn-problems",
+      "title": "Kansas City Clay Soil: Why It's Hard on Lawns and What Actually Fixes It",
+      "excerpt": "Kansas City's heavy clay soil compacts, drains slowly, and creates the thatch conditions that kill grass. Here's the real fix.",
+      "tags": [
+        "clay-soil",
+        "aeration",
+        "lawn-care",
+        "kansas-city"
+      ],
+      "imagePrompt": "Close-up of cracked and compacted clay soil in a Kansas City yard with sparse grass. Shovel visible at the edge. No text, no logos.",
+      "featuredImage": "blog-posts/images/kansas-city-clay-soil-lawn-problems.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-10-12",
+      "slug": "independence-mo-lawn-care-guide",
+      "title": "Lawn Care in Independence, MO: Older Lots, Mature Trees, and Real Expectations",
+      "excerpt": "Independence has some of the KC metro's oldest residential neighborhoods. Here's what lawn care looks like on a 1920s Craftsman lot vs a newer Little Blue River home.",
+      "tags": [
+        "independence",
+        "missouri",
+        "lawn-care",
+        "historic-homes"
+      ],
+      "imagePrompt": "A craftsman-era home in historic Independence Missouri with a well-maintained mature yard. Shade trees, brick walkway, clean landscape beds. No text, no logos.",
+      "featuredImage": "blog-posts/images/independence-mo-lawn-care-guide.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-10-19",
+      "slug": "pre-emergent-timing-kansas-city",
+      "title": "Pre-Emergent Weed Control Timing for Kansas City Lawns",
+      "excerpt": "Miss the pre-emergent window and you'll be fighting crabgrass all summer. Here's the exact KC metro timing and why it changes year to year.",
+      "tags": [
+        "weed-control",
+        "fertilization",
+        "kansas-city",
+        "spring"
+      ],
+      "imagePrompt": "A lawn care technician applying pre-emergent granules to a Kansas City lawn in early spring. Broadcast spreader, fresh green grass emerging. No text, no logos.",
+      "featuredImage": "blog-posts/images/pre-emergent-timing-kansas-city.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-10-26",
+      "slug": "blue-springs-shawnee-lenexa-lawn-care",
+      "title": "Lawn Care in Blue Springs, Shawnee, and Lenexa: What Makes Each Market Different",
+      "excerpt": "Three different cities, three different turf situations. Here's what drives lawn care decisions in each KC suburb.",
+      "tags": [
+        "blue-springs",
+        "shawnee",
+        "lenexa",
+        "lawn-care"
+      ],
+      "imagePrompt": "A split view of three Kansas City metro suburbs  -  Blue Springs near Fleming Park, Shawnee parkway neighborhood, and Lenexa HOA community. Each with a well-maintained lawn. No text, no logos.",
+      "featuredImage": "blog-posts/images/blue-springs-shawnee-lenexa-lawn-care.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-11-02",
+      "slug": "lawn-care-no-contract-what-it-means",
+      "title": "What 'No Contract' Lawn Care Actually Means (And What to Watch Out For)",
+      "excerpt": "No-contract lawn care sounds simple, but the details matter. Here's what a real no-contract policy looks like and what questions to ask.",
+      "tags": [
+        "lawn-care",
+        "contracts",
+        "kansas-city",
+        "customer-service"
+      ],
+      "imagePrompt": "A homeowner and lawn care professional shaking hands in front of a well-kept Kansas City home. No paperwork, casual professional meeting, sunny day. No text, no logos.",
+      "featuredImage": "blog-posts/images/lawn-care-no-contract-what-it-means.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-11-09",
+      "slug": "liberty-mo-raymore-mo-lawn-care",
+      "title": "Lawn Care in Liberty and Raymore, MO: Growing Cities, Different Turf",
+      "excerpt": "Liberty and Raymore are two of Missouri's fastest-growing KC suburbs. Here's what homeowners in each city are dealing with on their lawns.",
+      "tags": [
+        "liberty",
+        "raymore",
+        "missouri",
+        "lawn-care"
+      ],
+      "imagePrompt": "A new suburban neighborhood in Raymore Missouri with fresh sod lawns and new construction homes on a quiet street. Clear blue sky, morning light. No text, no logos.",
+      "featuredImage": "blog-posts/images/liberty-mo-raymore-mo-lawn-care.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-11-16",
+      "slug": "lawn-care-all-in-pricing-explained",
+      "title": "All-In Lawn Care Pricing Explained: What It Means and Why It Matters",
+      "excerpt": "All-in pricing means no add-ons, no surprise charges, no 'we noticed something while we were there.' Here's how it works and why most lawn care companies don't do it.",
+      "tags": [
+        "pricing",
+        "lawn-care",
+        "kansas-city",
+        "transparency"
+      ],
+      "imagePrompt": "A lawn care professional handing a clear printed quote to a Kansas City homeowner at their front door. Simple, transparent, professional interaction. No text, no logos.",
+      "featuredImage": "blog-posts/images/lawn-care-all-in-pricing-explained.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-11-23",
+      "slug": "winterizing-kansas-city-lawn",
+      "title": "Winterizing Your Kansas City Lawn: What to Do Before the Ground Freezes",
+      "excerpt": "The steps you take in late October and November directly affect how fast your lawn recovers in spring. Here's the KC metro winterization checklist.",
+      "tags": [
+        "winter",
+        "lawn-care",
+        "kansas-city",
+        "fall-cleanup"
+      ],
+      "imagePrompt": "A Kansas City lawn being prepped for winter. Late fall cleanup, leaf removal, final mow at correct height, clear November day. No text, no logos.",
+      "featuredImage": "blog-posts/images/winterizing-kansas-city-lawn.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-12-07",
+      "slug": "brookside-waldo-kansas-city-lawn-care",
+      "title": "Lawn Care in Brookside and Waldo: What These Kansas City Neighborhoods Actually Need",
+      "excerpt": "Brookside and Waldo have 1920s\"1950s homes with mature oaks, heavy clay soil, and established gardens. Here's what works here.",
+      "tags": [
+        "brookside",
+        "waldo",
+        "kansas-city",
+        "lawn-care"
+      ],
+      "imagePrompt": "A craftsman bungalow in Brookside Kansas City with a mature landscaped yard, old growth oak trees, and a fresh-cut lawn. Residential character, no text, no logos.",
+      "featuredImage": "blog-posts/images/brookside-waldo-kansas-city-lawn-care.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-12-14",
+      "slug": "how-to-get-lawn-care-estimate-kansas-city",
+      "title": "How to Get a Lawn Care Estimate in Kansas City: What to Expect and What to Ask",
+      "excerpt": "Getting a lawn care quote shouldn't be complicated. Here's what a legitimate estimate process looks like  -  and the red flags to watch for.",
+      "tags": [
+        "lawn-care",
+        "estimating",
+        "kansas-city",
+        "pricing"
+      ],
+      "imagePrompt": "A lawn care professional measuring a Kansas City yard with a measuring wheel. Homeowner nearby, sunny day, residential neighborhood. No text, no logos.",
+      "featuredImage": "blog-posts/images/how-to-get-lawn-care-estimate-kansas-city.jpg",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/kansas-city-lawn-watering-guide.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-12-21",
+      "slug": "kansas-city-lawn-watering-guide",
+      "title": "How to Water Your Kansas City Lawn Without Overwatering",
+      "excerpt": "Kansas City summers are hot. But overwatering kills as many lawns as drought. The right watering strategy for KC turf.",
+      "tags": [
+        "watering",
+        "lawn-care",
+        "kansas-city",
+        "summer"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/thatch-problem-kansas-city-lawns.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2026-12-28",
+      "slug": "thatch-problem-kansas-city-lawns",
+      "title": "Thatch: Why It Builds Up in Kansas City Lawns and How to Remove It",
+      "excerpt": "More than 1/2 inch of thatch blocks water and fertilizer. Here's how to identify it and fix it on KC clay-heavy lawns.",
+      "tags": [
+        "thatch",
+        "aeration",
+        "lawn-care",
+        "kansas-city"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/overland-park-olathe-lawn-care-hoa.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-01-04",
+      "slug": "overland-park-olathe-lawn-care-hoa",
+      "title": "HOA Lawn Care Standards in Overland Park and Olathe: What Johnson County Homeowners Need to Know",
+      "excerpt": "Johnson County HOAs take mowing and landscaping standards seriously. Here's how to stay compliant year-round.",
+      "tags": [
+        "hoa",
+        "overland-park",
+        "olathe",
+        "johnson-county"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/winter-lawn-care-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-01-11",
+      "slug": "winter-lawn-care-kansas-city",
+      "title": "Winter Lawn Care in Kansas City: What to Do (and What to Skip)",
+      "excerpt": "Your KC lawn needs attention even in dormancy. Here's what actually matters in November, December, and January.",
+      "tags": [
+        "winter",
+        "lawn-care",
+        "kansas-city",
+        "dormancy"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/mow-direction-pattern-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-01-18",
+      "slug": "mow-direction-pattern-kansas-city",
+      "title": "Does Mowing Direction Matter? What Kansas City Homeowners Should Know",
+      "excerpt": "Rotating mowing patterns prevents soil compaction and uneven turf. Here's what we do differently on every visit.",
+      "tags": [
+        "mowing",
+        "lawn-care",
+        "kansas-city",
+        "technique"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lawn-care-productivity-same-crew-value.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-01-25",
+      "slug": "lawn-care-productivity-same-crew-value",
+      "title": "The Real Cost of Lawn Care Crew Turnover (And Why the Same Crew Saves Money)",
+      "excerpt": "Every time a new crew shows up at your property, you lose value. Here's why crew consistency isn't just a nice-to-have.",
+      "tags": [
+        "lawn-care",
+        "reliability",
+        "customer-service",
+        "kansas-city"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/fertilization-programs-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-02-01",
+      "slug": "fertilization-programs-kansas-city",
+      "title": "Lawn Fertilization Programs in Kansas City: 4-Step vs 6-Step vs Custom",
+      "excerpt": "Not every KC lawn needs the same fertilization program. Here's how to choose.",
+      "tags": [
+        "fertilization",
+        "lawn-care",
+        "kansas-city",
+        "programs"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/spring-cleanup-timing-overland-park.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-02-08",
+      "slug": "spring-cleanup-timing-overland-park",
+      "title": "When to Schedule Spring Cleanup in Overland Park, KS: Timing Guide",
+      "excerpt": "HOA standards in Overland Park require early spring action. Here's the timeline that keeps Johnson County homeowners compliant.",
+      "tags": [
+        "spring-cleanup",
+        "overland-park",
+        "johnson-county",
+        "seasonal"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/sod-vs-seed-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-02-15",
+      "slug": "sod-vs-seed-kansas-city",
+      "title": "Sod vs. Seed for Kansas City Lawns: Which Is Right for Your Property?",
+      "excerpt": "Both sod and seed work in Kansas City — but the right choice depends on your timeline, budget, and property conditions.",
+      "tags": [
+        "sod",
+        "overseeding",
+        "lawn-care",
+        "kansas-city"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/crabgrass-control-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-02-22",
+      "slug": "crabgrass-control-kansas-city",
+      "title": "Crabgrass Control in Kansas City: Prevention Is the Only Real Strategy",
+      "excerpt": "Once crabgrass is established in your KC lawn, you're done for the season. Here's how to prevent it.",
+      "tags": [
+        "crabgrass",
+        "weed-control",
+        "kansas-city",
+        "fertilization"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lawn-mowing-frequency-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-03-01",
+      "slug": "lawn-mowing-frequency-kansas-city",
+      "title": "How Often Should You Mow in Kansas City? Seasonal Frequency Guide",
+      "excerpt": "Mowing frequency in Kansas City changes significantly by season. Here's the schedule that keeps fescue lawns healthy year-round.",
+      "tags": [
+        "mowing",
+        "frequency",
+        "kansas-city",
+        "seasonal"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/fall-fertilization-kansas-city-timing.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-03-08",
+      "slug": "fall-fertilization-kansas-city-timing",
+      "title": "Fall Fertilization in Kansas City: The Timing That Makes Spring Green-Up Faster",
+      "excerpt": "The fall fertilizer application does more for your lawn than any spring application. Here's the timing and formula.",
+      "tags": [
+        "fertilization",
+        "fall",
+        "kansas-city",
+        "turf"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/blue-springs-lawn-care-fleming-park.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-03-15",
+      "slug": "blue-springs-lawn-care-fleming-park",
+      "title": "Lawn Care Near Fleming Park and Lake Jacomo: What Blue Springs Homeowners Deal With",
+      "excerpt": "Blue Springs properties near Fleming Park have heavier tree canopy that changes what lawn care works.",
+      "tags": [
+        "blue-springs",
+        "lawn-care",
+        "shaded-lawn",
+        "kansas-city"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lawn-damage-heavy-rain-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-03-22",
+      "slug": "lawn-damage-heavy-rain-kansas-city",
+      "title": "Lawn Damage After Heavy Rain: What to Do in Kansas City",
+      "excerpt": "KC thunderstorms can compact soil, wash seed, and create standing water problems. Here's how to recover.",
+      "tags": [
+        "drainage",
+        "clay-soil",
+        "lawn-care",
+        "kansas-city"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/shrub-trimming-timing-spring-summer.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-03-29",
+      "slug": "shrub-trimming-timing-spring-summer",
+      "title": "When to Trim Shrubs in Kansas City: Spring and Summer Timing Rules",
+      "excerpt": "Cutting ornamental shrubs at the wrong time kills next season's blooms or damages new growth. Here's the timing guide.",
+      "tags": [
+        "shrub-trimming",
+        "landscaping",
+        "kansas-city",
+        "seasonal"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lawn-care-photo-updates-why-it-matters.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-04-05",
+      "slug": "lawn-care-photo-updates-why-it-matters",
+      "title": "Why We Send Photos After Every Lawn Care Visit",
+      "excerpt": "A text with photos when the job is done shouldn't be a premium feature. Here's why we do it on every visit.",
+      "tags": [
+        "customer-service",
+        "lawn-care",
+        "kansas-city",
+        "reliability"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/raymore-creekmoor-lawn-care-guide.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-04-12",
+      "slug": "raymore-creekmoor-lawn-care-guide",
+      "title": "Lawn Care in Raymore and Creekmoor: What HOA Properties Expect",
+      "excerpt": "Creekmoor's HOA standards and Raymore's fast-growing suburban market create specific lawn care demand.",
+      "tags": [
+        "raymore",
+        "creekmoor",
+        "hoa",
+        "lawn-care"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lenexa-shawnee-lawn-care-clay-soil.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-04-19",
+      "slug": "lenexa-shawnee-lawn-care-clay-soil",
+      "title": "Dealing With Clay Soil in Lenexa and Shawnee: Aeration Is the Starting Point",
+      "excerpt": "Lenexa and Shawnee's compacted clay soil makes aeration the highest-return service for Johnson County homeowners.",
+      "tags": [
+        "lenexa",
+        "shawnee",
+        "clay-soil",
+        "aeration"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/liberty-mo-lawn-care-clay-county.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-04-26",
+      "slug": "liberty-mo-lawn-care-clay-county",
+      "title": "Lawn Care in Liberty, MO: Clay County Soil, Growing Suburbs, and What Works",
+      "excerpt": "Liberty's Clay County soil and fast-growing residential market create both compaction challenges and fresh sod opportunity.",
+      "tags": [
+        "liberty",
+        "missouri",
+        "clay-county",
+        "lawn-care"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/kansas-city-lawn-care-summer-heat.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-05-03",
+      "slug": "kansas-city-lawn-care-summer-heat",
+      "title": "Keeping Your Kansas City Lawn Alive Through July and August Heat",
+      "excerpt": "Kansas City summers routinely hit 95F+ with humidity. Here's how to protect your lawn through the heat stress months.",
+      "tags": [
+        "summer",
+        "heat",
+        "lawn-care",
+        "kansas-city"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/mulching-beds-kansas-city-summer.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-05-10",
+      "slug": "mulching-beds-kansas-city-summer",
+      "title": "Refreshing Mulch in Kansas City Beds: Mid-Season vs Annual Application",
+      "excerpt": "Should you top-dress mulch in July or wait until fall? Here's the timing strategy for Kansas City landscape beds.",
+      "tags": [
+        "mulching",
+        "landscaping",
+        "kansas-city",
+        "summer"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lawn-care-all-inclusive-what-included.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-05-17",
+      "slug": "lawn-care-all-inclusive-what-included",
+      "title": "What's Actually Included in a Full-Service Lawn Care Visit",
+      "excerpt": "Edging, blowing, bagging — what does full-service lawn care include in Kansas City? Here's what you should always expect.",
+      "tags": [
+        "lawn-care",
+        "pricing",
+        "kansas-city",
+        "service"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lawn-care-first-visit-what-to-expect.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-05-24",
+      "slug": "lawn-care-first-visit-what-to-expect",
+      "title": "Your First Lawn Care Visit With Mulch Ado: What to Expect",
+      "excerpt": "Here's what happens from first contact through the first completed visit — how estimates work, crew assignment, and the photo update.",
+      "tags": [
+        "onboarding",
+        "lawn-care",
+        "kansas-city",
+        "process"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/independence-mo-historic-home-lawn.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-05-31",
+      "slug": "independence-mo-historic-home-lawn",
+      "title": "Lawn Care for Historic Homes in Independence, MO: What Old Lots Need",
+      "excerpt": "Independence's 1920s-1950s homes have mature trees, compacted clay, and established gardens that need a specific approach.",
+      "tags": [
+        "independence",
+        "historic-homes",
+        "lawn-care",
+        "missouri"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/grass-seed-varieties-kansas-city.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-06-07",
+      "slug": "grass-seed-varieties-kansas-city",
+      "title": "Best Grass Seed Varieties for Kansas City Lawns in 2026",
+      "excerpt": "Not all fescue blends perform equally in Kansas City's summer heat. Here's what we use for overseeding and why.",
+      "tags": [
+        "overseeding",
+        "grass-seed",
+        "kansas-city",
+        "turf"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    },
+    {
+      "author": "Greg at Mulch Ado",
+      "createdAt": "2026-06-29",
+      "updatedAt": "2026-06-29",
+      "featuredImage": "blog-posts/images/lawn-care-comparison-diy-vs-professional.jpg",
+      "status": "scheduled",
+      "publishDate": null,
+      "scheduledDate": "2027-06-14",
+      "slug": "lawn-care-comparison-diy-vs-professional",
+      "title": "DIY Lawn Care vs Professional Service in Kansas City: An Honest Comparison",
+      "excerpt": "Equipment costs, time investment, and results quality — an honest look at what DIY lawn care costs Kansas City homeowners versus professional service.",
+      "tags": [
+        "diy",
+        "professional",
+        "lawn-care",
+        "kansas-city"
+      ],
+      "imagePrompt": "Professional lawn care work in Kansas City metro. No text, no logos, photorealistic.",
+      "gbpGenerated": true
+    }
+  ]
+}

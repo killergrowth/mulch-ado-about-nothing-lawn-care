@@ -1,0 +1,27 @@
+{
+  "killerSEO": 92,
+  "killerGEO": 88,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1518,
+  "hasSchema": true,
+  "flags": [
+    "No real photo alt text visible in provided content",
+    "NAP email visible but full physical address format could be stronger"
+  ],
+  "strengths": [
+    "Excellent local uniqueness: Kansas City clay soil, fescue grass, transition zone climate, specific soil temp ranges (65-70°F)",
+    "Strong neighborhood mentions: Prairie Star (Overland Park), Waldo (KC), Falls of Winterset (Lee's Summit)",
+    "Outstanding content depth: 1518 words with 6 local FAQs covering timing, cost, clay soil science",
+    "Perfect H1 structure: keyword + city in first 100 words",
+    "Title 59 chars, meta 152 chars both keyword-first with clear CTA and pricing",
+    "Excellent trust signals: 3 neighborhood-specific testimonials with initials, owner bio with credentials",
+    "Schema present with 100+ internal links and multiple CTAs/forms",
+    "Service area clarity: 10 cities listed multiple times with dedicated service pages",
+    "Deep geographic specificity: clay-heavy soil, September-October timing window, 6-8 weeks before first frost",
+    "Strong GBP alignment: clear metro positioning, phone number prominent, service-area pages"
+  ],
+  "key": "svc-aeration",
+  "url": "/aeration-and-overseeding/",
+  "scoredAt": "2026-06-29T17:32:59.944Z"
+}

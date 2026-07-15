@@ -1,0 +1,35 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 92,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1699,
+  "hasSchema": true,
+  "flags": [
+    "Meta description exceeds 155 characters slightly",
+    "Title could be more keyword-first (currently 'Leaf Removal in Independence | Mulch Ado')",
+    "Owner name inconsistency (Greg M. vs Tyler Norris email)",
+    "Testimonials are from other cities, not Independence specifically"
+  ],
+  "strengths": [
+    "Exceptional geographic specificity: Historic Square area, Englewood, Little Blue River corridor mentioned multiple times",
+    "Strong local climate/tree knowledge: oak, maple, sycamore, elm timing and characteristics",
+    "1699 words exceeds depth requirement significantly",
+    "6 FAQs with deep local slant about Independence properties",
+    "Schema markup present",
+    "109 internal links (exceptional)",
+    "Clear NAP visible multiple times",
+    "CTA and form present",
+    "H1 and H2s properly structured with keyword+city",
+    "Keyword in first 100 words",
+    "Service area clarity excellent: Jackson County context, relationship to Kansas City metro",
+    "Local expertise demonstrated with soil, drainage, HOA details",
+    "Photo confirmation and text updates mentioned (trust signal)",
+    "Fully insured and licensed mentioned multiple times",
+    "Specific pricing ranges provided ($150-$400)",
+    "Peak leaf season timing for Independence specified (mid-October through Thanksgiving)"
+  ],
+  "key": "sxc-leaf-removal-indep",
+  "url": "/leaf-removal/independence-mo/",
+  "scoredAt": "2026-06-29T17:35:00.189Z"
+}

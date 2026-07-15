@@ -1,0 +1,34 @@
+{
+  "killerSEO": 92,
+  "killerGEO": 88,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1263,
+  "hasSchema": true,
+  "flags": [
+    "Title could be more keyword-first (currently brand-focused)",
+    "No local climate/weather context mentioned (clay soil mentioned but no seasonal weather patterns)",
+    "Missing specific local landmarks or parks beyond neighborhood names"
+  ],
+  "strengths": [
+    "Excellent word count (1263) with deep content",
+    "Strong local neighborhood mentions (Brookside, Waldo, Ward Parkway, Hyde Park, Northland)",
+    "5 FAQs with local Kansas City context",
+    "H1 perfect: keyword + city",
+    "Keyword in first 100 words achieved",
+    "Schema markup present",
+    "101 internal links (exceptional)",
+    "Multiple testimonials with neighborhood attribution",
+    "NAP clearly visible",
+    "Strong E-E-A-T signals (owner bio, credentials, licensed/insured)",
+    "CTA and form present",
+    "Service area clearly defined with surrounding cities",
+    "Geographic specificity includes clay soil reference and Missouri River geography",
+    "Meta description under 155 chars with clear CTA and phone number",
+    "Real local insight about pre-1950s clay soil and compaction issues",
+    "Northland vs central city distinction shows deep market knowledge"
+  ],
+  "key": "city-kansas-city",
+  "url": "/kansas-city-mo/",
+  "scoredAt": "2026-06-29T17:33:25.841Z"
+}

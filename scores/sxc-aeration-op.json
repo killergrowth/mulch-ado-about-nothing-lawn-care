@@ -1,0 +1,34 @@
+{
+  "killerSEO": 88,
+  "killerGEO": 92,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1783,
+  "hasSchema": true,
+  "flags": [
+    "Title exceeds 65 characters (71 chars)",
+    "Multiple testimonials but not from Overland Park specifically (2 of 3 from other cities)",
+    "No real photo alt text visible in audit"
+  ],
+  "strengths": [
+    "Exceptional local specificity: Blue Valley, Santa Fe Trail, College Boulevard, Metcalf corridor named",
+    "Deep local climate/soil context: clay soil compaction issues specific to OP",
+    "Strong word count at 1783 words",
+    "6 FAQs with local Overland Park slant throughout",
+    "Keyword in H1 and first 100 words",
+    "Meta description under 155 chars with clear CTA and pricing",
+    "Schema markup present",
+    "109 internal links (exceptional)",
+    "Multiple CTAs and contact forms",
+    "NAP clearly visible throughout",
+    "Credentials stated (insured, licensed, locally operated)",
+    "Testimonial signals with star ratings",
+    "Income demographics mentioned ($80-90k)",
+    "Service area clearly stated with neighborhood-level detail",
+    "Strong GBP alignment for Overland Park map pack",
+    "Mentions HOA standards and local expectations"
+  ],
+  "key": "sxc-aeration-op",
+  "url": "/aeration-and-overseeding/overland-park-ks/",
+  "scoredAt": "2026-06-29T17:34:23.599Z"
+}

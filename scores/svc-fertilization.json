@@ -1,0 +1,34 @@
+{
+  "killerSEO": 92,
+  "killerGEO": 88,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1478,
+  "hasSchema": true,
+  "flags": [
+    "Meta description exceeds 155 characters",
+    "NAP not visible in header/footer (only phone visible)",
+    "No specific photo alt text examples visible in provided text"
+  ],
+  "strengths": [
+    "Exceptional local climate/soil knowledge (transition zone, clay soil specifics)",
+    "Highly specific neighborhood mentions in testimonials (Prairie Star, Waldo, Falls of Winterset)",
+    "Strong geographic timing insight (forsythia blooming, soil temperature at 50-55°F)",
+    "Comprehensive 6 FAQs all with local Kansas City angle",
+    "Well over 700 words (1478 total)",
+    "H1 includes keyword + city",
+    "Keyword in first 100 words",
+    "Schema markup present",
+    "100+ internal links",
+    "Multiple CTAs and contact forms",
+    "Strong testimonial signals with neighborhood attribution",
+    "Clear credentials and owner statement",
+    "All-in transparent pricing with KC-specific ranges",
+    "Service area clearly defined across multiple cities",
+    "Addresses KC-specific challenges (clay soil, transition zone)",
+    "Strong positioning for local map pack with city-specific pages"
+  ],
+  "key": "svc-fertilization",
+  "url": "/fertilization-and-lawn-treatment/",
+  "scoredAt": "2026-06-29T17:32:50.096Z"
+}

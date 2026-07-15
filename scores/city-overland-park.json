@@ -1,0 +1,30 @@
+{
+  "killerSEO": 92,
+  "killerGEO": 88,
+  "seoStatus": "PASS",
+  "geoStatus": "PASS",
+  "wordCount": 1252,
+  "hasSchema": true,
+  "flags": [
+    "Title could be more keyword-first (brand name after service)",
+    "No real photo alt text visible in provided content"
+  ],
+  "strengths": [
+    "Excellent local geographic context: Blue Valley, Santa Fe Trail, College Boulevard, Metcalf corridor, Prairiefire",
+    "Strong local insight: clay soil, HOA enforcement, household income data, Johnson County references",
+    "Keyword in first 100 words and H1 properly formatted",
+    "5 FAQs all with local Overland Park slant",
+    "Clear credentials and E-E-A-T signals: owner bio, licensed/insured badges",
+    "Schema markup present",
+    "101 internal links exceeds requirement",
+    "Multiple CTAs and estimate form present",
+    "3 testimonials with neighborhood-specific attribution",
+    "NAP clearly visible in footer",
+    "Service area clarity with specific neighborhoods listed",
+    "1252 words exceeds 700+ requirement",
+    "Strong GBP alignment with location-specific positioning"
+  ],
+  "key": "city-overland-park",
+  "url": "/overland-park-ks/",
+  "scoredAt": "2026-06-29T17:33:37.130Z"
+}

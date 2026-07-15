@@ -1,0 +1,29 @@
+{
+  "clientSlug": "mulch-ado-about-nothing-lawn-care",
+  "businessName": "Mulch Ado About Nothing Lawn Care",
+  "pkg": "pkg002",
+  "mondayTaskId": "12396305822",
+  "mondayClientId": "12396336884",
+  "buildStarted": "2026-06-29T15:30:00.000Z",
+  "lastUpdated": "2026-06-29T23:59:00.000Z",
+  "completedSteps": [
+    "step1-market-data",
+    "step2-logo-and-scaffold",
+    "step3-build-data",
+    "step4-content-and-pages",
+    "step5-gbp-posts",
+    "step6-reviews-case-b",
+    "step7-scoring-17-of-17-pass",
+    "step8-audit-50-of-50-pass",
+    "step8b-deploy-staging",
+    "step9-handoff"
+  ],
+  "currentStep": "complete",
+  "stagingUrl": "https://staging.mulch-ado-about-nothing-lawn-care.pages.dev",
+  "auditResult": "PASS — 50/50 checks green",
+  "scoringResult": "17/17 pages scored — all KillerSEO 85+ and KillerGEO 75+",
+  "gbpJobId": "gbp-mqzf29n57qn",
+  "gbpPostsGenerated": 49,
+  "reviewsCase": "B",
+  "notes": "Full PKG002 KillerClimb build complete. 128 HTML files, 10 services, 10 cities, 100 SxC pages, 52 blog posts (3 published + 49 scheduled), 52 GBP draft posts. Reviews Case B (no GBP yet). Encoding corruption in blog-index.json (mojibake em-dashes from blog titles) fixed manually. Monday task updated to Client Reviewing. BUILD_PENDING KV key deleted. sites.json status = staging."
+}
